@@ -1,4 +1,7 @@
 *.sln
 
 hello world/obj/
+classes&objects/obj/
+*bin/
+*obj/
 *.csproj
